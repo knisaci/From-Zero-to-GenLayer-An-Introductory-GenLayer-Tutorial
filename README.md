@@ -2,9 +2,11 @@ READ ME FIRST
 
 
 Who This Tutorial Is For
+
 This guide is written for complete beginners. You do not need to have any prior experience with blockchain, smart contracts, or even programming. If you know how to copy and paste text into a browser, you can follow this tutorial.
 
 What You Will Need
+
 •	A computer with a modern web browser (Chrome or Firefox recommended)
 •	A MetaMask wallet — free at metamask.io
 •	An internet connection
